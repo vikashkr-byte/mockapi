@@ -1,3 +1,104 @@
 {
- "books":[]
+ "books":[
+    {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "Fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": "1299",
+        "borrowed": false,
+        "id": 1
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg",
+        "book_name": "Harry Potter and the Chamber of Secrets",
+        "author": "J. K. Rowling",
+        "genre": "Fiction",
+        "edition": "2022",
+        "publisher": "Bloomsbury",
+        "cost": "1299",
+        "borrowed": false,
+        "id": 2
+      },
+      {
+        "image_url": "https://bookbins.in/wp-content/uploads/2021/05/How-To-Win-Friends-And-Influence-People-Dale-Carnegie-Buy-Online-Bookbins-1.png",
+        "book_name": " How to win friends and influence people",
+        "author": "Dale Carnegie",
+        "genre": "Business",
+        "edition": "2022",
+        "publisher": "Simon & Schuster",
+        "cost": "1899",
+        "borrowed": false,
+        "id": 3
+      },
+      {
+        "image_url": "https://www.robinsharma.com/files/img/book/9156802291265ef1ee1f6720f3ab8bc0.png",
+        "book_name": "The 5 AM Club Book",
+        "author": "Robin Sharma",
+        "genre": "Business",
+        "edition": "2022",
+        "publisher": "HarperCollins",
+        "cost": "2300",
+        "borrowed": false,
+        "id": 4
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/91stRjShWFL.jpg",
+        "book_name": "Cosmos",
+        "author": "Carl Sagan",
+        "genre": "Science",
+        "edition": "2020",
+        "publisher": "Random House",
+        "cost": "1000",
+        "borrowed": false,
+        "id": 5
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "author": "Jared Diamond",
+        "genre": "History",
+        "edition": "2021",
+        "publisher": "W. W. Norton",
+        "cost": "1500",
+        "borrowed": false,
+        "id": 6
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Postwar_book_tony_judt.jpg",
+        "book_name": "Postwar: A History of Europe Since 1945",
+        "author": "\tTony Judt",
+        "genre": "History",
+        "edition": "2021",
+        "publisher": "\tPenguin Press",
+        "cost": "2000",
+        "borrowed": false,
+        "id": 7
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Postwar_book_tony_judt.jpg",
+        "book_name": "Postwar: A History of Europe Since 1945",
+        "author": "Tony Judt",
+        "genre": "History",
+        "edition": "2020",
+        "publisher": "\tPenguin Press",
+        "cost": "2000",
+        "borrowed": false,
+        "id": 8
+      },
+      {
+        "image_url": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/age-of-ai-book.jpg?itok=mFlQW8OA",
+        "book_name": " The Age of A.I. ",
+        "author": "Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher",
+        "genre": "Tech",
+        "edition": "2021",
+        "publisher": "Henry Kissinger",
+        "cost": "2500",
+        "borrowed": false,
+        "id": 9
+      }
+ ],
+ "borrowed":[]
 }
